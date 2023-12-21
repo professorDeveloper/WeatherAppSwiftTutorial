@@ -1,2 +1,2 @@
-<img src="https://github.com/professorDeveloper/SwiftTutorial/assets/108933534/ab256486-963a-45a8-aa83-d835d9b7c29a" width="90">
-<img src="https://github.com/professorDeveloper/SwiftTutorial/assets/108933534/75c31be9-b389-4987-a413-67049a5704aa" width="90">
+<img src="https://github.com/professorDeveloper/SwiftTutorial/assets/108933534/ab256486-963a-45a8-aa83-d835d9b7c29a" width="200">
+<img src="https://github.com/professorDeveloper/SwiftTutorial/assets/108933534/75c31be9-b389-4987-a413-67049a5704aa" width="200">
